@@ -1,5 +1,0 @@
-0 HL
-1 HR
-2 CL
-3 CR
-4 nothing
